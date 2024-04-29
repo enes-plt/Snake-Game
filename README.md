@@ -1,7 +1,7 @@
 # Snake-Game 🐍
 Snake-Game via Python
 
-This Python script utilizes the Pygame library to develop a Snake game. It structures the game logic into three classes: SNAKE, FRUIT, and MAIN.
+This Python project utilizes the Pygame library to develop a Snake game. It structures the game logic into three classes: SNAKE, FRUIT, and MAIN.
 The SNAKE class manages the snake's behavior, including movement, rendering, and collision detection. The FRUIT class handles the fruit's position, rendering, and randomization.
 The MAIN class acts as the central controller, orchestrating game state updates, drawing elements on the screen, and managing user input.
 
