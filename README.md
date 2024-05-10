@@ -1,4 +1,5 @@
-# Snake-Game 🐍
+# Snake-Game ![snake](https://github.com/enes-plt/Snake-Game/assets/152672327/92b1168a-da10-478c-abf6-8c0cf5374dae)
+
 Snake-Game via Python
 
 This Python project utilizes the Pygame library to develop a Snake game. It structures the game logic into three classes: SNAKE, FRUIT, and MAIN.
